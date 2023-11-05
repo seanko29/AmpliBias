@@ -1,5 +1,8 @@
 # [CIKM23] AmpliBias: Mitigating Dataset Bias through Bias Amplification in Few-shot Learning for Generative Models
-Official PyTorch Implementation of [AmpliBias: Mitigating Dataset Bias through Bias Amplification in Few-shot Learning for Generative Models](https://dl.acm.org/doi/10.1145/3583780.3615184) (CIKM 2023) by Donggeun Ko et. al.
+Official PyTorch Implementation of [AmpliBias: Mitigating Dataset Bias through Bias Amplification in Few-shot Learning for Generative Models](https://dl.acm.org/doi/10.1145/3583780.3615184) (CIKM 2023) by Donggeun Ko et. a
+
+### On-Going! Still fixing and revising code. Thank you for waiting :D 
+
 
 ## Environment Setting
 python=3.8
